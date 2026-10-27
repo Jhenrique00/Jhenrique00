@@ -1,11 +1,11 @@
 <h1 align="center">João Henrique</h1>
 
-<p align="center"><strong>Desenvolvimento full-stack · Aplicações web · Automação</strong></p>
+<p align="center"><strong>Desenvolvimento full-stack · Aplicações web · Aplicativos mobile</strong></p>
 
 <p align="center">
   <img alt="Full-stack" src="https://img.shields.io/badge/FULL--STACK-F85149?style=for-the-badge&labelColor=0D1117" />
   <img alt="Web" src="https://img.shields.io/badge/APLICA%C3%87%C3%95ES_WEB-21262D?style=for-the-badge" />
-  <img alt="Automação" src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-21262D?style=for-the-badge" />
+  <img alt="Aplicativos mobile" src="https://img.shields.io/badge/APLICATIVOS_MOBILE-21262D?style=for-the-badge" />
 </p>
 
 ---
