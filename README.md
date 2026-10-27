@@ -1,14 +1,22 @@
-# 👨‍💻 João Henrique
+<h1 align="center">João Henrique</h1>
 
-**`Desenvolvimento full-stack · Aplicações web · Automação`**
+<p align="center"><strong>Desenvolvimento full-stack · Aplicações web · Automação</strong></p>
+
+<p align="center">
+  <img alt="Full-stack" src="https://img.shields.io/badge/FULL--STACK-F85149?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Web" src="https://img.shields.io/badge/APLICA%C3%87%C3%95ES_WEB-21262D?style=for-the-badge" />
+  <img alt="Automação" src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-21262D?style=for-the-badge" />
+</p>
+
+---
 
 Sou João Henrique. Estudo desenvolvimento full-stack, com interesse em aplicações web, automação e na conexão entre interfaces, APIs e bancos de dados. Minha base de estudos inclui **TypeScript, JavaScript, React, Node.js e PostgreSQL**.
 
 Uso este espaço para compartilhar projetos e explorar ideias que representam minha área. Cada repositório tem seu próprio estágio de desenvolvimento.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-a909ba311/"><img alt="LinkedIn" title="Meu perfil no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/sjhenrique_/"><img alt="Instagram" title="Meu Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-a909ba311/"><img alt="LinkedIn" title="Meu perfil no LinkedIn" src="https://img.shields.io/badge/LinkedIn-B62324?style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/sjhenrique_/"><img alt="Instagram" title="Meu Instagram" src="https://img.shields.io/badge/Instagram-B62324?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/Jhenrique00?tab=repositories"><img alt="Repositórios" title="Explore meus repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -48,4 +56,18 @@ Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvo
 
 ---
 
-<sub>Referência de organização visual: <a href="https://www.youtube.com/watch?v=9ygf4hkLVnA">tutorial de personalização do GitHub, por Larissa Kich</a>.</sub>
+### 📅 Atividade de desenvolvimento
+
+Contribuições registradas no GitHub nos últimos 12 meses.
+
+<a href="https://github.com/Jhenrique00?tab=overview">
+  <img src="https://ghchart.rshah.org/f85149/Jhenrique00" alt="Calendário das contribuições de Jhenrique00 nos últimos 12 meses, em tons de vermelho" width="100%" />
+</a>
+
+**Histórico por ano** · [2026](https://github.com/Jhenrique00?tab=overview&from=2026-01-01&to=2026-12-31) · [2025](https://github.com/Jhenrique00?tab=overview&from=2025-01-01&to=2025-12-31) · [2024](https://github.com/Jhenrique00?tab=overview&from=2024-01-01&to=2024-12-31)
+
+<sub>O gráfico usa os dados públicos do GitHub e pode apresentar atraso de atualização. Inclui contribuições de automações, como os relatórios do daily-log.</sub>
+
+---
+
+<sub>Referências visuais: <a href="https://www.youtube.com/watch?v=Fs9fG_LkKx0">DevClub</a> e <a href="https://www.youtube.com/watch?v=9ygf4hkLVnA">Larissa Kich</a>. Calendário: <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart API</a>.</sub>
