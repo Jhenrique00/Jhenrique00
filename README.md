@@ -56,18 +56,12 @@ Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvo
 
 ---
 
-### 📅 Atividade de desenvolvimento
+### 📊 Linguagens nos meus projetos
 
-Contribuições registradas no GitHub nos últimos 12 meses.
+![Distribuição das linguagens: TypeScript 83,47%, CSS 10,23%, Python 5,94%, Batchfile 0,19% e HTML 0,17%](assets/languages.svg)
 
-<a href="https://github.com/Jhenrique00?tab=overview">
-  <img src="https://ghchart.rshah.org/f85149/Jhenrique00" alt="Calendário das contribuições de Jhenrique00 nos últimos 12 meses, em tons de vermelho" width="100%" />
-</a>
-
-**Histórico por ano** · [2026](https://github.com/Jhenrique00?tab=overview&from=2026-01-01&to=2026-12-31)
-
-<sub>O gráfico usa os dados públicos do GitHub e pode apresentar atraso de atualização. Inclui contribuições de automações, como os relatórios do daily-log.</sub>
+<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios Tectique, MotorSync e daily-log. Retrato de 27/10/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
 
 ---
 
-<sub>Referências visuais: <a href="https://www.youtube.com/watch?v=Fs9fG_LkKx0">DevClub</a> e <a href="https://www.youtube.com/watch?v=9ygf4hkLVnA">Larissa Kich</a>. Calendário: <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart API</a>.</sub>
+<sub>Referências visuais: <a href="https://www.youtube.com/watch?v=Fs9fG_LkKx0">DevClub</a> e <a href="https://www.youtube.com/watch?v=9ygf4hkLVnA">Larissa Kich</a>.</sub>
