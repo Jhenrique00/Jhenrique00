@@ -1,38 +1,51 @@
-# Olá, sou João Henrique 👋
+# 👨‍💻 João Henrique
 
-### Desenvolvimento full-stack · Automação · Aplicações web
+**`Desenvolvimento full-stack · Aplicações web · Automação`**
 
-Estou construindo meu portfólio com projetos que conectam interface, regras de negócio e banco de dados. Meu foco atual é **TypeScript e JavaScript**, com **React, Node.js e PostgreSQL**.
+Sou João Henrique. Estudo desenvolvimento full-stack, com interesse em aplicações web, automação e na conexão entre interfaces, APIs e bancos de dados. Minha base de estudos inclui **TypeScript, JavaScript, React, Node.js e PostgreSQL**.
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-henrique-a909ba311/) · [Conheça a Tectique](https://github.com/Jhenrique00/Tectique)
+Uso este espaço para compartilhar projetos e explorar ideias que representam minha área. Cada repositório tem seu próprio estágio de desenvolvimento.
 
-## Projeto em destaque
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-a909ba311/"><img alt="LinkedIn" title="Meu perfil no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/sjhenrique_/"><img alt="Instagram" title="Meu Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Jhenrique00?tab=repositories"><img alt="Repositórios" title="Explore meus repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-### [Tectique — Seu trabalho flui. No automático.](https://github.com/Jhenrique00/Tectique)
+---
 
-Plataforma full-stack de automação com **editor visual de fluxos e CRM**, em desenvolvimento.
+### 🛠️ Linguagens e tecnologias
 
-- **Interface:** React e TypeScript, editor de blocos e acompanhamento de execuções.
-- **Back-end:** Node.js e Express, autenticação, workspaces e controle de acesso.
-- **Dados:** PostgreSQL para contatos, tarefas, fluxos e histórico.
-- **Integrações:** GitHub Analytics, requisições HTTPS, webhooks e SMTP configurável.
-- **Qualidade:** testes automatizados e documentação de execução local, funcionalidades e limites.
+Tecnologias que estudo e exploro nos meus projetos.
 
-**Versão 0.9.0:** código disponível para executar localmente. Hospedagem e próximos módulos ainda estão em planejamento.
+<p align="left">
+  <img alt="HTML" title="HTML" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img alt="CSS" title="CSS" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" title="TypeScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="React" title="React" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img alt="Node.js" title="Node.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+  <img alt="Python" title="Python" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" title="Git" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+</p>
 
-[Explorar o código](https://github.com/Jhenrique00/Tectique) · [Guia de uso](https://github.com/Jhenrique00/Tectique/blob/main/docs/USAGE.md)
+**Front-end** · HTML, CSS, JavaScript, TypeScript e React  
+**Back-end e dados** · Node.js, Express, APIs HTTP e PostgreSQL  
+**Automação e ferramentas** · Python, Git e GitHub Actions
 
-## Outro projeto
+---
 
-**[MotorSync](https://github.com/Jhenrique00/MotorSync)** — Planejamento de uma plataforma mobile para comunidade, marketplace e gestão automotiva. O repositório reúne visão de produto, arquitetura proposta e roadmap; o aplicativo de produção ainda não está implementado.
+### 🧩 Projetos
 
-## Tecnologias do meu projeto atual
+Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvolvimento.
 
-| Camada | Tecnologias |
-| --- | --- |
-| Front-end | TypeScript, JavaScript, React, HTML e CSS |
-| Back-end | Node.js, Express e APIs HTTP |
-| Banco de dados | PostgreSQL |
-| Desenvolvimento | Git, GitHub e testes automatizados |
+| Projeto | Proposta | Estado atual |
+| :--- | :--- | :--- |
+| **[Tectique](https://github.com/Jhenrique00/Tectique)** | Aplicação web de automação, com editor visual de fluxos e CRM. | Implementação disponível para execução local; em desenvolvimento. |
+| **[MotorSync](https://github.com/Jhenrique00/MotorSync)** | Plataforma automotiva que propõe conectar comunidade, marketplace e gestão. | Planejamento, arquitetura proposta e documentação; aplicativo ainda não implementado no repositório. |
+| **[daily-log](https://github.com/Jhenrique00/daily-log)** | Laboratório de automação e verificação de repositório com Python e GitHub Actions. | Auditorias e testes automatizados; commits de relatório gerados por automação. |
 
-Meu próximo foco é evoluir a Tectique, ampliar as integrações e documentar as decisões técnicas ao longo do desenvolvimento.
+---
+
+<sub>Referência de organização visual: <a href="https://www.youtube.com/watch?v=9ygf4hkLVnA">tutorial de personalização do GitHub, por Larissa Kich</a>.</sub>
