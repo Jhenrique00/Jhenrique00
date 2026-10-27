@@ -64,7 +64,7 @@ Contribuições registradas no GitHub nos últimos 12 meses.
   <img src="https://ghchart.rshah.org/f85149/Jhenrique00" alt="Calendário das contribuições de Jhenrique00 nos últimos 12 meses, em tons de vermelho" width="100%" />
 </a>
 
-**Histórico por ano** · [2026](https://github.com/Jhenrique00?tab=overview&from=2026-01-01&to=2026-12-31) · [2025](https://github.com/Jhenrique00?tab=overview&from=2025-01-01&to=2025-12-31) · [2024](https://github.com/Jhenrique00?tab=overview&from=2024-01-01&to=2024-12-31)
+**Histórico por ano** · [2026](https://github.com/Jhenrique00?tab=overview&from=2026-01-01&to=2026-12-31)
 
 <sub>O gráfico usa os dados públicos do GitHub e pode apresentar atraso de atualização. Inclui contribuições de automações, como os relatórios do daily-log.</sub>
 
