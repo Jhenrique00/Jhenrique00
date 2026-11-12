@@ -53,15 +53,14 @@ Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvo
 | :--- | :--- | :--- |
 | **[Tectique](https://github.com/Jhenrique00/Tectique)** | Aplicação web em React e TypeScript, com editor visual de automações, integrações e CRM; back-end Node.js e PostgreSQL. | v0.9.0 disponível para execução local; em desenvolvimento, com hospedagem em produção pendente. |
 | **[MotorSync](https://github.com/Jhenrique00/MotorSync)** | Aplicativo acadêmico em React Native, Expo e JavaScript para anúncios e gestão de veículos, clientes, propostas e vendas, com integração Supabase/PostgreSQL. | Código publicado, com testes locais documentados. Validação em Android e integrações reais pendentes; feed social demonstrativo e financeiro ainda não operacional. |
-| **[daily-log](https://github.com/Jhenrique00/daily-log)** | Laboratório de automação e verificação de repositório com Python e GitHub Actions. | Auditorias e testes automatizados; commits de relatório gerados por automação. |
 
 ---
 
 ### 📊 Linguagens nos meus projetos
 
-![Distribuição das linguagens: TypeScript 44,23%, JavaScript 36,99%, PLpgSQL 10,02%, CSS 5,42%, Python 3,15%, Batchfile 0,10%, HTML 0,09%](https://raw.githubusercontent.com/Jhenrique00/Jhenrique00/d8477736b7617a683ddc49ab1b19cc5b33ffb14b/assets/languages.svg)
+![Distribuição das linguagens: TypeScript 45,66%, JavaScript 38,19%, PLpgSQL 10,35%, CSS 5,60%, Batchfile 0,11%, HTML 0,10%](https://raw.githubusercontent.com/Jhenrique00/Jhenrique00/35f5716e8d3e006ab9e61e6b1a046afcf749d617/assets/languages.svg)
 
-<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios Tectique, MotorSync e daily-log. Retrato de 12/11/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
+<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios MotorSync e Tectique. Retrato de 12/11/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
 
 ---
 
