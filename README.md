@@ -51,16 +51,16 @@ Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvo
 
 | Projeto | Proposta | Estado atual |
 | :--- | :--- | :--- |
-| **[Tectique](https://github.com/Jhenrique00/Tectique)** | Aplicação web em React e TypeScript, com editor visual de automações, integrações e CRM; back-end Node.js e PostgreSQL. | v0.9.0 disponível para execução local; em desenvolvimento, com hospedagem em produção pendente. |
+| **[Tecsync Engine](https://github.com/Jhenrique00/tecsync-engine)** | Projeto full-stack para conectar processos e simplificar tarefas repetitivas, com React, TypeScript, Node.js e PostgreSQL. | Em desenvolvimento, com implementação local e testes automatizados. Mais informações em breve. |
 | **[MotorSync](https://github.com/Jhenrique00/MotorSync)** | Aplicativo acadêmico em React Native, Expo e JavaScript para anúncios e gestão de veículos, clientes, propostas e vendas, com integração Supabase/PostgreSQL. | Código publicado, com testes locais documentados. Validação em Android e integrações reais pendentes; feed social demonstrativo e financeiro ainda não operacional. |
 
 ---
 
 ### 📊 Linguagens nos meus projetos
 
-![Distribuição das linguagens: TypeScript 45,66%, JavaScript 38,19%, PLpgSQL 10,35%, CSS 5,60%, Batchfile 0,11%, HTML 0,10%](https://raw.githubusercontent.com/Jhenrique00/Jhenrique00/35f5716e8d3e006ab9e61e6b1a046afcf749d617/assets/languages.svg)
+![Distribuição das linguagens: TypeScript 45,66%, JavaScript 38,19%, PLpgSQL 10,35%, CSS 5,60%, Batchfile 0,11%, HTML 0,10%](assets/languages.svg)
 
-<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios MotorSync e Tectique. Retrato de 12/11/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
+<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios MotorSync e Tecsync Engine. Retrato de 12/11/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
 
 ---
 
