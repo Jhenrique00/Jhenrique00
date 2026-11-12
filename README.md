@@ -59,7 +59,7 @@ Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvo
 
 ### 📊 Linguagens nos meus projetos
 
-![Distribuição das linguagens: TypeScript 44,23%, JavaScript 36,99%, PLpgSQL 10,02%, CSS 5,42%, Python 3,15%, Batchfile 0,10%, HTML 0,09%](assets/languages.svg)
+![Distribuição das linguagens: TypeScript 44,23%, JavaScript 36,99%, PLpgSQL 10,02%, CSS 5,42%, Python 3,15%, Batchfile 0,10%, HTML 0,09%](https://raw.githubusercontent.com/Jhenrique00/Jhenrique00/d8477736b7617a683ddc49ab1b19cc5b33ffb14b/assets/languages.svg)
 
 <sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios Tectique, MotorSync e daily-log. Retrato de 12/11/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
 
