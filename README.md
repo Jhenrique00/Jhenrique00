@@ -10,7 +10,7 @@
 
 ---
 
-Sou João Henrique. Estudo desenvolvimento full-stack, com interesse em aplicações web, automação e na conexão entre interfaces, APIs e bancos de dados. Minha base de estudos inclui **TypeScript, JavaScript, React, Node.js e PostgreSQL**.
+Sou João Henrique. Estudo desenvolvimento full-stack, com interesse em aplicações web, aplicativos mobile, automação e na conexão entre interfaces, APIs e bancos de dados. Minha base de estudos inclui **TypeScript, JavaScript, React, Node.js e PostgreSQL**.
 
 Uso este espaço para compartilhar projetos e explorar ideias que representam minha área. Cada repositório tem seu próprio estágio de desenvolvimento.
 
@@ -39,6 +39,7 @@ Tecnologias que estudo e exploro nos meus projetos.
 </p>
 
 **Front-end** · HTML, CSS, JavaScript, TypeScript e React  
+**Mobile** · React Native, Expo e JavaScript  
 **Back-end e dados** · Node.js, Express, APIs HTTP e PostgreSQL  
 **Automação e ferramentas** · Python, Git e GitHub Actions
 
@@ -50,17 +51,17 @@ Algumas ideias que exploro por aqui, relacionadas aos meus interesses em desenvo
 
 | Projeto | Proposta | Estado atual |
 | :--- | :--- | :--- |
-| **[Tectique](https://github.com/Jhenrique00/Tectique)** | Aplicação web de automação, com editor visual de fluxos e CRM. | Implementação disponível para execução local; em desenvolvimento. |
-| **[MotorSync](https://github.com/Jhenrique00/MotorSync)** | Plataforma automotiva que propõe conectar comunidade, marketplace e gestão. | Planejamento, arquitetura proposta e documentação; aplicativo ainda não implementado no repositório. |
+| **[Tectique](https://github.com/Jhenrique00/Tectique)** | Aplicação web em React e TypeScript, com editor visual de automações, integrações e CRM; back-end Node.js e PostgreSQL. | v0.9.0 disponível para execução local; em desenvolvimento, com hospedagem em produção pendente. |
+| **[MotorSync](https://github.com/Jhenrique00/MotorSync)** | Aplicativo acadêmico em React Native, Expo e JavaScript para anúncios e gestão de veículos, clientes, propostas e vendas, com integração Supabase/PostgreSQL. | Código publicado, com testes locais documentados. Validação em Android e integrações reais pendentes; feed social demonstrativo e financeiro ainda não operacional. |
 | **[daily-log](https://github.com/Jhenrique00/daily-log)** | Laboratório de automação e verificação de repositório com Python e GitHub Actions. | Auditorias e testes automatizados; commits de relatório gerados por automação. |
 
 ---
 
 ### 📊 Linguagens nos meus projetos
 
-![Distribuição das linguagens: TypeScript 83,47%, CSS 10,23%, Python 5,94%, Batchfile 0,19% e HTML 0,17%](assets/languages.svg)
+![Distribuição das linguagens: TypeScript 44,23%, JavaScript 36,99%, PLpgSQL 10,02%, CSS 5,42%, Python 3,15%, Batchfile 0,10%, HTML 0,09%](assets/languages.svg)
 
-<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios Tectique, MotorSync e daily-log. Retrato de 27/10/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
+<sub>Percentuais por bytes de código identificados pelo GitHub nos repositórios Tectique, MotorSync e daily-log. Retrato de 12/11/2026; não representa tempo de uso ou nível de domínio. Frameworks e ferramentas não são contabilizados separadamente.</sub>
 
 ---
 
